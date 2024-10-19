@@ -1,0 +1,1 @@
+Semestrálny projekt
