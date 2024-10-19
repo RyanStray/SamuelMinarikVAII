@@ -9,6 +9,7 @@ body {
     margin: 0;
 }
 
+
 header {
     position: fixed;
     width: 75%;
@@ -27,6 +28,7 @@ header {
 
 
 nav {
+    position: fixed;
     float: left;
     width: 15%;
     height: 800px;
@@ -46,8 +48,13 @@ nav ul {
 
 article {
     float: left;
-    padding: 0 10px 0 10px;
-    width: 70%;
+    padding: 0 0 0 25%;
+    width: 60%;
+}
+
+h2 {
+    color: red;
+    background-color: white;
 }
 
 .first {
@@ -96,8 +103,8 @@ a:hover {
 .footballer {
     background-size: contain;
     background-repeat: no-repeat;
-    width: 150px;
-    height: 150px;
+    width: 400px;
+    height: 400px;
 }
 
 .mbappe{
